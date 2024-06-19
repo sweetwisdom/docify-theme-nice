@@ -1,5 +1,6 @@
 ## docsify
 
+[live-demo](https://sweetwisdom.github.io/docify-theme-nice/#/)
 > 一个神奇的文档网站生成器。
 >
 > 开箱即用，内置搜索 目录生成插件，支持多级目录
