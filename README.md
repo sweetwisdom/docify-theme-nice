@@ -21,7 +21,7 @@ npm run publish
 
 
 
-![image-20240619171006374](./.imgs/image-20240619171006374.png)
+![image-20240619171006374](./docs//.imgs/image-20240619171006374.png)
 
 
 
